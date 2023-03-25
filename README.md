@@ -22,19 +22,19 @@
 
 # Platforms Supported
 
-## To run Web: 
+## To run on  Web: 
 1. npm i
 2. npm start
 3. press w
 
-## To run IOS 
-1. Download Expo-go on your device
+## To run on IOS 
+1. Download Expo-go on your phone
 2. npm i 
 3. npm start
 4. Scan the QR code in the terminal with your camera
 
-## To run Android 
-1. Download Expo-go on your device
+## To run on Android 
+1. Download Expo-go on your phone
 2. npm i 
 3. npm start
 4. Scan the QR code with Expo-go
