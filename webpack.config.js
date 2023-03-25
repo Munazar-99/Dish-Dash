@@ -11,7 +11,7 @@ module.exports = async function (env, argv) {
     },
     argv
   );
-
+  config.resolve.alias['../Utilities/Platform'] ='react-native-web/dist/exports/Platform'
   config.module.rules.push({
     test: /\.css$/i,
     use: ["postcss-loader"],
