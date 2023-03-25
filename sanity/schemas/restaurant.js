@@ -19,12 +19,17 @@ export default defineType({
   },
   {
     name: 'image',
-    title: 'Image of the Restaurat',
+    title: 'Image of the Restaurant',
     type: 'image',
   },
   {
     name: 'lat',
     title: 'Latitude of the Restaurant',
+    type: 'number',
+  },
+  {
+    name: 'long',
+    title: 'Longtitude of the Restaurant',
     type: 'number',
   },
   {
@@ -52,7 +57,7 @@ export default defineType({
   },
   {
     name: 'dishes',
-    title: 'Address of the restaurant',
+    title: 'Dishes',
     type: 'array',
     of:[{type:'reference', to:[{type:'dish'}] }],
   },

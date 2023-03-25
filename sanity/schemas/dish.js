@@ -19,12 +19,12 @@ export default defineType({
     },
     {
       name: 'price',
-      title: 'Price of the Dish in GBP',
-      type: 'image',
+      title: 'Price of the Dish in SEK',
+      type: 'number',
     },
     {
       name: 'image',
-      title: 'Image of the Restaurat',
+      title: 'Image of the Dish',
       type: 'image',
     },
   ],
