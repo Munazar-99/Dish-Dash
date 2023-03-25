@@ -15,6 +15,7 @@
 ## Backend:
 1. Sanity Io (CMS)
 
+<video src="https://user-images.githubusercontent.com/112558267/227723685-d8a58170-86e6-47db-bfb8-9fe6f622d2d9.mp4"></video>
 
 
 ## To run server: Runs on  8080 port
