@@ -1,8 +1,13 @@
 # DISH-DASH
 
-## CONCEPT OF A FOOD DELIVERY APP BUILT USING REACT-NATIVE
+#### CONCEPT OF A FOOD DELIVERY APP BUILT USING REACT-NATIVE
 
-#
+# APP DEMO
+
+<div id="header" align="center">
+<video src="https://user-images.githubusercontent.com/112558267/227723685-d8a58170-86e6-47db-bfb8-9fe6f622d2d9.mp4"></video>
+</div>
+
 
 ## Frontend:
 1. React Native (EXPO)
@@ -15,33 +20,39 @@
 ## Backend:
 1. Sanity Io (CMS)
 
-<video src="https://user-images.githubusercontent.com/112558267/227723685-d8a58170-86e6-47db-bfb8-9fe6f622d2d9.mp4"></video>
+# Platforms Supported
 
-
-## To run server: Runs on  8080 port
+## To run Web: 
 1. npm i
 2. npm start
+3. press w
 
-## To run frontend: Runs on 3000 port
-1. npm i 
-2. npm start
+## To run IOS 
+1. Download Expo-go on your device
+2. npm i 
+3. npm start
+4. Scan the QR code in the terminal with your camera
+
+## To run Android 
+1. Download Expo-go on your device
+2. npm i 
+3. npm start
+4. Scan the QR code with Expo-go
 
 
-https://user-images.githubusercontent.com/112558267/227723685-d8a58170-86e6-47db-bfb8-9fe6f622d2d9.mp4
 
 
 ## App is capable of:
-1. REST API get and get all and get by id
-2. display results / products on frontend with filters as per product name.
-3. Serach product by name
-4. Pagination
-5. Hosted on Netlify 
+1. Displaying Different Restaurants
+2. Displaying Different dishes for each Restaurants
+3. Display the items in Cart and the total Price (Redux)
+4. Map location and estimated delivery Time
+
 
 
 ## Functionalities yet to be handled:
-1. Product Page
-2. Adding Cart
-3. Payment gateway
-4. Switching to Redux to handle states
+1. Payment gateway
+2. Creating Category Screen
+3. Map location of delivery vehicle in real time
 
 
